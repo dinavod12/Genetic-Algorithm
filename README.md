@@ -47,20 +47,3 @@ Results and Analysis
 The results section presents a comparative analysis of different mutation and crossover rates for each benchmark function. Plots and tables show the convergence behavior, highlighting how different parameter combinations influence the GA’s ability to find the global optimum.
 
 This repository is intended for researchers, students, and developers interested in optimization algorithms, particularly Genetic Algorithms, and their application to complex optimization problems. Contributions and suggestions are welcome!
-How to Use
-
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/dinavod12/genetic-algorithm-cec-benchmark.git
-
-Install the required dependencies:
-
-pip install -r requirements.txt
-
-Run the optimization script with different parameter settings:
-
-css
-
-python run_ga.py --mutation_rate 0.01 --crossover_rate 0.7 --function bent_cigar
