@@ -53,7 +53,7 @@ How to Use
 
     bash
 
-git clone https://github.com/yourusername/genetic-algorithm-cec-benchmark.git
+git clone https://github.com/dinavod12/genetic-algorithm-cec-benchmark.git
 
 Install the required dependencies:
 
